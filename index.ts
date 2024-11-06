@@ -1,1 +1,5 @@
-console.log('first')
+{
+  const name: string = 'sohan'
+  
+  
+}
