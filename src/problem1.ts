@@ -5,6 +5,3 @@ function sumArray(arr: number[]):number {
  return sum;
 }
 sumArray([1, 2, 3, 4, 5]);
-
-
-// To run the program: ts-node-dev --respawn --transpile-only ./src/problem2.ts
